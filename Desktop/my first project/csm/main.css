@@ -1,0 +1,46 @@
+{
+    padding:0;
+    margin:0;
+
+
+}
+
+
+.one{
+ color: rgb(119, 64, 64); 
+ font-size: 0.5cm;
+background-color: rgb(120, 90, 148);
+letter-spacing: 1px;
+
+}
+.two{
+color: rgb(112, 104, 92);
+font-size: 5px;
+background-color: brown;
+}
+.three{
+display:flex ;
+justify-content: space-between;
+list-style:none ;
+background-color: rgb(23, 23, 24);
+padding: 10px;
+cursor: pointer;
+
+
+}
+.main{
+    text-decoration: none;
+    color: rgb(56, 51, 51);
+    margin-top:  20px;
+    padding: 10;
+    border-radius: 15px;
+}
+
+.four{ 
+     text-decoration: none;
+    color: rgb(56, 51, 51);
+    margin-top:  20px;
+    padding: 10;
+    border-radius: 15px;
+
+}
